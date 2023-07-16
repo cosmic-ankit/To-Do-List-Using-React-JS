@@ -1,8 +1,7 @@
 # Hoted
 
 
-https://cosmic-ankit.github.io/To-Do-List-Using-React-JS/
-
+https://to-do-list-reactjs-ankit.netlify.app/
 
 # Todo List
 
